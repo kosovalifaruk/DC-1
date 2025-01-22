@@ -91,3 +91,35 @@ In saying that, there shouldn't be any problems, but I feel the need to throw th
 
 ------------------------------------- DC-3 -------------------------------------
 
+# **Description
+
+
+DC-3 is another purposely built vulnerable lab with the intent of gaining experience in the world of penetration testing.
+
+As with the previous DC releases, this one is designed with beginners in mind, although this time around, there is only one flag, one entry point and no clues at all.
+
+Linux skills and familiarity with the Linux command line are a must, as is some experience with basic penetration testing tools.
+
+For beginners, Google can be of great assistance, but you can always tweet me at @DCAU7 for assistance to get you going again. But take note: I won't give you the answer, instead, I'll give you an idea about how to move forward.
+
+For those with experience doing CTF and Boot2Root challenges, this probably won't take you long at all (in fact, it could take you less than 20 minutes easily).
+
+If that's the case, and if you want it to be a bit more of a challenge, you can always redo the challenge and explore other ways of gaining root and obtaining the flag.
+
+# **Technical Information
+
+DC-3 is a VirtualBox/VMWARE VM built on Ubuntu 32 bit, so there should be no issues running it on most PCs.
+
+Please note: There was an issue reported with DC-3 not working with VMware Workstation. To get around that, I recommend using VirtualBox, however, I have created a separate DC-3 VMware edition for those who can only use VMware.
+
+It is currently configured for Bridged Networking, however, this can be changed to suit your requirements. Networking is configured for DHCP.
+
+Installation is simple - download it, unzip it, and then import it into VirtualBox and away you go.
+
+# **Important
+
+
+While there should be no problems using this VM, by downloading it, you accept full responsibility for any unintentional damage that this VM may cause.
+
+In saying that, there shouldn't be any problems, but I feel the need to throw this out there just in case.
+
