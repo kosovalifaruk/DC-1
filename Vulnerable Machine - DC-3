@@ -1,0 +1,7 @@
+#Vulnerable Machine - DC-3
+
+You can download the DC-3.ova file from the link below.
+
+https://download.vulnhub.com/dc/DC-3-2.zip
+
+NOTE: IF YOU ENCOUNTER AN ERROR IN VMWARE OR FUSION, PLEASE CHANGE THE HDD FROM SCSI TO IDE.
